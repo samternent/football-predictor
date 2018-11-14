@@ -1,0 +1,512 @@
+[
+  {
+    "fixture": {
+      "id": 233144,
+      "season": {
+        "id": 151,
+        "startDate": "2018-08-10",
+        "endDate": "2019-05-12",
+        "currentMatchday": 13
+      },
+      "utcDate": "2018-11-24T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "group": "Regular Season",
+      "lastUpdated": "2018-11-11T09:03:57Z",
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "halfTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "extraTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "penalties": {
+          "homeTeam": null,
+          "awayTeam": null
+        }
+      },
+      "homeTeam": {
+        "id": 63,
+        "name": "Fulham FC"
+      },
+      "awayTeam": {
+        "id": 340,
+        "name": "Southampton FC"
+      },
+      "referees": []
+    },
+    "prediction": {
+      "home": 0.20605820417404175,
+      "away": 0.5892559885978699,
+      "draw": 0.20182673633098602
+    }
+  },
+  {
+    "fixture": {
+      "id": 233146,
+      "season": {
+        "id": 151,
+        "startDate": "2018-08-10",
+        "endDate": "2019-05-12",
+        "currentMatchday": 13
+      },
+      "utcDate": "2018-11-24T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "group": "Regular Season",
+      "lastUpdated": "2018-11-11T09:03:57Z",
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "halfTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "extraTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "penalties": {
+          "homeTeam": null,
+          "awayTeam": null
+        }
+      },
+      "homeTeam": {
+        "id": 62,
+        "name": "Everton FC"
+      },
+      "awayTeam": {
+        "id": 715,
+        "name": "Cardiff City FC"
+      },
+      "referees": []
+    },
+    "prediction": {
+      "home": 0.6684112548828125,
+      "away": 0.16472260653972626,
+      "draw": 0.17373833060264587
+    }
+  },
+  {
+    "fixture": {
+      "id": 233147,
+      "season": {
+        "id": 151,
+        "startDate": "2018-08-10",
+        "endDate": "2019-05-12",
+        "currentMatchday": 13
+      },
+      "utcDate": "2018-11-24T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "group": "Regular Season",
+      "lastUpdated": "2018-11-11T09:03:57Z",
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "halfTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "extraTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "penalties": {
+          "homeTeam": null,
+          "awayTeam": null
+        }
+      },
+      "homeTeam": {
+        "id": 66,
+        "name": "Manchester United FC"
+      },
+      "awayTeam": {
+        "id": 354,
+        "name": "Crystal Palace FC"
+      },
+      "referees": []
+    },
+    "prediction": {
+      "home": 0.5974265336990356,
+      "away": 0.19079452753067017,
+      "draw": 0.20519502460956573
+    }
+  },
+  {
+    "fixture": {
+      "id": 233149,
+      "season": {
+        "id": 151,
+        "startDate": "2018-08-10",
+        "endDate": "2019-05-12",
+        "currentMatchday": 13
+      },
+      "utcDate": "2018-11-24T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "group": "Regular Season",
+      "lastUpdated": "2018-11-11T09:03:57Z",
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "halfTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "extraTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "penalties": {
+          "homeTeam": null,
+          "awayTeam": null
+        }
+      },
+      "homeTeam": {
+        "id": 563,
+        "name": "West Ham United FC"
+      },
+      "awayTeam": {
+        "id": 65,
+        "name": "Manchester City FC"
+      },
+      "referees": []
+    },
+    "prediction": {
+      "home": 0.3358220160007477,
+      "away": 0.49104103446006775,
+      "draw": 0.17241248488426208
+    }
+  },
+  {
+    "fixture": {
+      "id": 233150,
+      "season": {
+        "id": 151,
+        "startDate": "2018-08-10",
+        "endDate": "2019-05-12",
+        "currentMatchday": 13
+      },
+      "utcDate": "2018-11-24T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "group": "Regular Season",
+      "lastUpdated": "2018-11-11T09:03:57Z",
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "halfTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "extraTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "penalties": {
+          "homeTeam": null,
+          "awayTeam": null
+        }
+      },
+      "homeTeam": {
+        "id": 397,
+        "name": "Brighton & Hove Albion FC"
+      },
+      "awayTeam": {
+        "id": 338,
+        "name": "Leicester City FC"
+      },
+      "referees": []
+    },
+    "prediction": {
+      "home": 0.5987829566001892,
+      "away": 0.19528567790985107,
+      "draw": 0.20809292793273926
+    }
+  },
+  {
+    "fixture": {
+      "id": 233151,
+      "season": {
+        "id": 151,
+        "startDate": "2018-08-10",
+        "endDate": "2019-05-12",
+        "currentMatchday": 13
+      },
+      "utcDate": "2018-11-24T15:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "group": "Regular Season",
+      "lastUpdated": "2018-11-11T09:03:57Z",
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "halfTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "extraTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "penalties": {
+          "homeTeam": null,
+          "awayTeam": null
+        }
+      },
+      "homeTeam": {
+        "id": 346,
+        "name": "Watford FC"
+      },
+      "awayTeam": {
+        "id": 64,
+        "name": "Liverpool FC"
+      },
+      "referees": []
+    },
+    "prediction": {
+      "home": 0.6631849408149719,
+      "away": 0.32867494225502014,
+      "draw": 0.004016940947622061
+    }
+  },
+  {
+    "fixture": {
+      "id": 233145,
+      "season": {
+        "id": 151,
+        "startDate": "2018-08-10",
+        "endDate": "2019-05-12",
+        "currentMatchday": 13
+      },
+      "utcDate": "2018-11-24T17:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "group": "Regular Season",
+      "lastUpdated": "2018-11-11T09:03:57Z",
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "halfTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "extraTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "penalties": {
+          "homeTeam": null,
+          "awayTeam": null
+        }
+      },
+      "homeTeam": {
+        "id": 73,
+        "name": "Tottenham Hotspur FC"
+      },
+      "awayTeam": {
+        "id": 61,
+        "name": "Chelsea FC"
+      },
+      "referees": []
+    },
+    "prediction": {
+      "home": 0.49843597412109375,
+      "away": 0.49414923787117004,
+      "draw": 0.010139765217900276
+    }
+  },
+  {
+    "fixture": {
+      "id": 233152,
+      "season": {
+        "id": 151,
+        "startDate": "2018-08-10",
+        "endDate": "2019-05-12",
+        "currentMatchday": 13
+      },
+      "utcDate": "2018-11-25T13:30:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "group": "Regular Season",
+      "lastUpdated": "2018-11-11T09:03:57Z",
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "halfTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "extraTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "penalties": {
+          "homeTeam": null,
+          "awayTeam": null
+        }
+      },
+      "homeTeam": {
+        "id": 1044,
+        "name": "AFC Bournemouth"
+      },
+      "awayTeam": {
+        "id": 57,
+        "name": "Arsenal FC"
+      },
+      "referees": []
+    },
+    "prediction": {
+      "home": 0.49712157249450684,
+      "away": 0.16436290740966797,
+      "draw": 0.33950427174568176
+    }
+  },
+  {
+    "fixture": {
+      "id": 233143,
+      "season": {
+        "id": 151,
+        "startDate": "2018-08-10",
+        "endDate": "2019-05-12",
+        "currentMatchday": 13
+      },
+      "utcDate": "2018-11-25T16:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "group": "Regular Season",
+      "lastUpdated": "2018-11-11T09:03:57Z",
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "halfTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "extraTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "penalties": {
+          "homeTeam": null,
+          "awayTeam": null
+        }
+      },
+      "homeTeam": {
+        "id": 76,
+        "name": "Wolverhampton Wanderers FC"
+      },
+      "awayTeam": {
+        "id": 394,
+        "name": "Huddersfield Town AFC"
+      },
+      "referees": []
+    },
+    "prediction": {
+      "home": 0.331552654504776,
+      "away": 0.3276466429233551,
+      "draw": 0.3417142629623413
+    }
+  },
+  {
+    "fixture": {
+      "id": 233148,
+      "season": {
+        "id": 151,
+        "startDate": "2018-08-10",
+        "endDate": "2019-05-12",
+        "currentMatchday": 13
+      },
+      "utcDate": "2018-11-26T20:00:00Z",
+      "status": "SCHEDULED",
+      "matchday": 13,
+      "stage": "REGULAR_SEASON",
+      "group": "Regular Season",
+      "lastUpdated": "2018-11-11T09:03:57Z",
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "halfTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "extraTime": {
+          "homeTeam": null,
+          "awayTeam": null
+        },
+        "penalties": {
+          "homeTeam": null,
+          "awayTeam": null
+        }
+      },
+      "homeTeam": {
+        "id": 328,
+        "name": "Burnley FC"
+      },
+      "awayTeam": {
+        "id": 67,
+        "name": "Newcastle United FC"
+      },
+      "referees": []
+    },
+    "prediction": {
+      "home": 0.19825224578380585,
+      "away": 0.5911622047424316,
+      "draw": 0.2041017711162567
+    }
+  }
+]
