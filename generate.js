@@ -1,10 +1,11 @@
 const { NeuralNetwork } = require('brain.js');
 const axios = require('axios');
 const { writeFileSync } = require('fs');
+const { api_key } = require('./config');
 
 let request = axios.create({
     headers: {
-        common: { 'X-Auth-Token': '1f0b613e3073460b8fbcdfd0c8b6f243' }
+        common: { 'X-Auth-Token': api_key }
     }
 });
 
