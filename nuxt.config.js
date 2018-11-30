@@ -52,7 +52,7 @@ module.exports = {
 
   generate: {
     subFolders: false,
-    routes: ['/13']
+    routes: ['/13', '/14']
   },
   /*
   ** Build configuration
