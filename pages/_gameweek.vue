@@ -83,7 +83,6 @@ export default {
     border: 2px solid #333;
     padding: 17px;
     margin: 3px;
-    margin-left: 13px;
     color: #333;
     display: inline-block;
   }

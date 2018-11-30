@@ -9,25 +9,25 @@
         "currentMatchday": 13
       },
       "utcDate": "2018-11-24T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": "Regular Season",
-      "lastUpdated": "2018-11-11T09:03:57Z",
+      "lastUpdated": "2018-11-25T13:40:12Z",
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 3,
+          "awayTeam": 2
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 2,
+          "awayTeam": 1
         },
         "extraTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "penalties": {
           "homeTeam": null,
@@ -42,12 +42,38 @@
         "id": 340,
         "name": "Southampton FC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11605,
+          "name": "Michael Oliver",
+          "nationality": null
+        },
+        {
+          "id": 11564,
+          "name": "Stuart Burt",
+          "nationality": null
+        },
+        {
+          "id": 11756,
+          "name": "Stephen Bennett",
+          "nationality": null
+        },
+        {
+          "id": 11585,
+          "name": "Craig Pawson",
+          "nationality": null
+        },
+        {
+          "id": 11488,
+          "name": "Simon Bennett",
+          "nationality": null
+        }
+      ]
     },
     "prediction": {
-      "home": 0.2054300755262375,
-      "away": 0.5884506106376648,
-      "draw": 0.2014581710100174
+      "home": 0.2078401744365692,
+      "away": 0.5855895280838013,
+      "draw": 0.20133571326732635
     }
   },
   {
@@ -60,25 +86,25 @@
         "currentMatchday": 13
       },
       "utcDate": "2018-11-24T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": "Regular Season",
-      "lastUpdated": "2018-11-11T09:03:57Z",
+      "lastUpdated": "2018-11-25T13:35:14Z",
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 1,
+          "awayTeam": 0
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "extraTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "penalties": {
           "homeTeam": null,
@@ -93,12 +119,33 @@
         "id": 715,
         "name": "Cardiff City FC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11520,
+          "name": "Paul Tierney",
+          "nationality": null
+        },
+        {
+          "id": 11595,
+          "name": "Adrian Holmes",
+          "nationality": null
+        },
+        {
+          "id": 11521,
+          "name": "Mark Scholes",
+          "nationality": null
+        },
+        {
+          "id": 11487,
+          "name": "Kevin Friend",
+          "nationality": null
+        }
+      ]
     },
     "prediction": {
-      "home": 0.6658338904380798,
-      "away": 0.1642538607120514,
-      "draw": 0.17192070186138153
+      "home": 0.667824387550354,
+      "away": 0.1653066873550415,
+      "draw": 0.17268145084381104
     }
   },
   {
@@ -111,25 +158,25 @@
         "currentMatchday": 13
       },
       "utcDate": "2018-11-24T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": "Regular Season",
-      "lastUpdated": "2018-11-11T09:03:57Z",
+      "lastUpdated": "2018-11-25T13:40:12Z",
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "extraTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "penalties": {
           "homeTeam": null,
@@ -144,12 +191,33 @@
         "id": 354,
         "name": "Crystal Palace FC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11479,
+          "name": "Lee Mason",
+          "nationality": null
+        },
+        {
+          "id": 11570,
+          "name": "Harry Lennard",
+          "nationality": null
+        },
+        {
+          "id": 11531,
+          "name": "Marc Perry",
+          "nationality": null
+        },
+        {
+          "id": 11580,
+          "name": "Anthony Taylor",
+          "nationality": null
+        }
+      ]
     },
     "prediction": {
-      "home": 0.5967801213264465,
-      "away": 0.19054299592971802,
-      "draw": 0.20398063957691193
+      "home": 0.5962311625480652,
+      "away": 0.19030094146728516,
+      "draw": 0.20426802337169647
     }
   },
   {
@@ -162,25 +230,25 @@
         "currentMatchday": 13
       },
       "utcDate": "2018-11-24T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": "Regular Season",
-      "lastUpdated": "2018-11-11T09:03:57Z",
+      "lastUpdated": "2018-11-25T13:50:12Z",
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 4
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 3
         },
         "extraTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "penalties": {
           "homeTeam": null,
@@ -195,12 +263,33 @@
         "id": 65,
         "name": "Manchester City FC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11610,
+          "name": "Andre Marriner",
+          "nationality": null
+        },
+        {
+          "id": 11611,
+          "name": "Scott Ledger",
+          "nationality": null
+        },
+        {
+          "id": 11504,
+          "name": "Simon Long",
+          "nationality": null
+        },
+        {
+          "id": 11519,
+          "name": "Keith Stroud",
+          "nationality": null
+        }
+      ]
     },
     "prediction": {
-      "home": 0.3369227349758148,
-      "away": 0.4906753897666931,
-      "draw": 0.17412222921848297
+      "home": 0.33842310309410095,
+      "away": 0.4867798089981079,
+      "draw": 0.17259250581264496
     }
   },
   {
@@ -213,25 +302,25 @@
         "currentMatchday": 13
       },
       "utcDate": "2018-11-24T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": "Regular Season",
-      "lastUpdated": "2018-11-11T09:03:57Z",
+      "lastUpdated": "2018-11-25T13:35:14Z",
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 1,
+          "awayTeam": 1
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 1,
+          "awayTeam": 0
         },
         "extraTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "penalties": {
           "homeTeam": null,
@@ -246,12 +335,33 @@
         "id": 338,
         "name": "Leicester City FC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11443,
+          "name": "Chris Kavanagh",
+          "nationality": null
+        },
+        {
+          "id": 11438,
+          "name": "Dan Cook",
+          "nationality": null
+        },
+        {
+          "id": 98555,
+          "name": null,
+          "nationality": null
+        },
+        {
+          "id": 11543,
+          "name": "Roger East",
+          "nationality": null
+        }
+      ]
     },
     "prediction": {
-      "home": 0.5972478985786438,
-      "away": 0.19482961297035217,
-      "draw": 0.20738863945007324
+      "home": 0.5986002087593079,
+      "away": 0.19549614191055298,
+      "draw": 0.20727916061878204
     }
   },
   {
@@ -264,25 +374,25 @@
         "currentMatchday": 13
       },
       "utcDate": "2018-11-24T15:00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": "Regular Season",
-      "lastUpdated": "2018-11-11T09:03:57Z",
+      "lastUpdated": "2018-11-25T13:50:12Z",
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 3
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "extraTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "penalties": {
           "homeTeam": null,
@@ -297,12 +407,33 @@
         "id": 64,
         "name": "Liverpool FC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11567,
+          "name": "Jonathan Moss",
+          "nationality": null
+        },
+        {
+          "id": 11480,
+          "name": "Eddie Smart",
+          "nationality": null
+        },
+        {
+          "id": 11568,
+          "name": "Andrew Halliday",
+          "nationality": null
+        },
+        {
+          "id": 11556,
+          "name": "David Coote",
+          "nationality": null
+        }
+      ]
     },
     "prediction": {
-      "home": 0.6641345620155334,
-      "away": 0.3286300301551819,
-      "draw": 0.006702475715428591
+      "home": 0.6643319725990295,
+      "away": 0.327191025018692,
+      "draw": 0.003173489822074771
     }
   },
   {
@@ -315,25 +446,25 @@
         "currentMatchday": 13
       },
       "utcDate": "2018-11-24T17:30:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": "Regular Season",
-      "lastUpdated": "2018-11-11T09:03:57Z",
+      "lastUpdated": "2018-11-25T20:20:19Z",
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 3,
+          "awayTeam": 1
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 2,
+          "awayTeam": 0
         },
         "extraTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "penalties": {
           "homeTeam": null,
@@ -348,12 +479,33 @@
         "id": 61,
         "name": "Chelsea FC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11551,
+          "name": "Martin Atkinson",
+          "nationality": null
+        },
+        {
+          "id": 11547,
+          "name": "Stephen Child",
+          "nationality": null
+        },
+        {
+          "id": 11530,
+          "name": "Lee Betts",
+          "nationality": null
+        },
+        {
+          "id": 11494,
+          "name": "Stuart Attwell",
+          "nationality": null
+        }
+      ]
     },
     "prediction": {
-      "home": 0.49887505173683167,
-      "away": 0.49348559975624084,
-      "draw": 0.01193735096603632
+      "home": 0.5006946921348572,
+      "away": 0.4928063452243805,
+      "draw": 0.009321767836809158
     }
   },
   {
@@ -366,25 +518,25 @@
         "currentMatchday": 13
       },
       "utcDate": "2018-11-25T13:30:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": "Regular Season",
-      "lastUpdated": "2018-11-11T09:03:57Z",
+      "lastUpdated": "2018-11-25T17:43:00Z",
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 1,
+          "awayTeam": 2
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 1,
+          "awayTeam": 1
         },
         "extraTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "penalties": {
           "homeTeam": null,
@@ -399,12 +551,33 @@
         "id": 57,
         "name": "Arsenal FC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11585,
+          "name": "Craig Pawson",
+          "nationality": null
+        },
+        {
+          "id": 11495,
+          "name": "Ian Hussin",
+          "nationality": null
+        },
+        {
+          "id": 11586,
+          "name": "Richard West",
+          "nationality": null
+        },
+        {
+          "id": 11556,
+          "name": "David Coote",
+          "nationality": null
+        }
+      ]
     },
     "prediction": {
-      "home": 0.49827051162719727,
-      "away": 0.16466699540615082,
-      "draw": 0.3380466103553772
+      "home": 0.4991031289100647,
+      "away": 0.16434639692306519,
+      "draw": 0.3390386402606964
     }
   },
   {
@@ -417,25 +590,25 @@
         "currentMatchday": 13
       },
       "utcDate": "2018-11-25T16:00:00Z",
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": "Regular Season",
-      "lastUpdated": "2018-11-11T09:03:57Z",
+      "lastUpdated": "2018-11-25T20:29:21Z",
       "score": {
-        "winner": null,
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 2
         },
         "halfTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 1
         },
         "extraTime": {
-          "homeTeam": null,
-          "awayTeam": null
+          "homeTeam": 0,
+          "awayTeam": 0
         },
         "penalties": {
           "homeTeam": null,
@@ -450,12 +623,33 @@
         "id": 394,
         "name": "Huddersfield Town AFC"
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11487,
+          "name": "Kevin Friend",
+          "nationality": null
+        },
+        {
+          "id": 11444,
+          "name": "Matthew Wilkes",
+          "nationality": null
+        },
+        {
+          "id": 11544,
+          "name": "Simon Beck",
+          "nationality": null
+        },
+        {
+          "id": 11520,
+          "name": "Paul Tierney",
+          "nationality": null
+        }
+      ]
     },
     "prediction": {
-      "home": 0.3304595947265625,
-      "away": 0.3279707133769989,
-      "draw": 0.34221988916397095
+      "home": 0.33312323689460754,
+      "away": 0.3272009789943695,
+      "draw": 0.34025755524635315
     }
   },
   {
@@ -472,7 +666,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": "Regular Season",
-      "lastUpdated": "2018-11-11T09:03:57Z",
+      "lastUpdated": "2018-11-25T14:05:15Z",
       "score": {
         "winner": null,
         "duration": "REGULAR",
@@ -504,9 +698,9 @@
       "referees": []
     },
     "prediction": {
-      "home": 0.19838614761829376,
-      "away": 0.5915809869766235,
-      "draw": 0.20555108785629272
+      "home": 0.1988781988620758,
+      "away": 0.5884642601013184,
+      "draw": 0.2055395543575287
     }
   }
 ]
